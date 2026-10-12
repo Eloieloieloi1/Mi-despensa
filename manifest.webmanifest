@@ -1,0 +1,10 @@
+{
+  "name": "Mi Despensa",
+  "short_name": "Despensa",
+  "description": "La despensa y la lista de la compra en familia",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7f1",
+  "theme_color": "#236b52",
+  "icons": [{"src":"./assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
